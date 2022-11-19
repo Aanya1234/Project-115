@@ -1,0 +1,1 @@
+This is a write commasIt allows us to write in a particular filethis will add line to the existing file
